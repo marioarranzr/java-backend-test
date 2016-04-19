@@ -28,9 +28,9 @@ Example:
 
 ```javascript
 {
-  "coords" : [5, 5],
+  "roomSize" : [5, 5],
+  "coords" : [1, 2],
   "patches" : [
-    [1, 2],
     [1, 0],
     [2, 2],
     [2, 3]
